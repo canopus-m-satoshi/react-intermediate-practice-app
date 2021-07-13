@@ -41,7 +41,7 @@ export const Header: VFC = memo(() => {
 
         <Flex
           align="center"
-          fontSizep="sm"
+          fontSize="sm"
           flexGrow={2}
           display={{ base: 'none', md: 'flex' }}>
           <Box pr={4}>
